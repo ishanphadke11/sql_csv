@@ -1,0 +1,2 @@
+SELECT * FROM parquet_file;
+SELECT COUNT(*) FROM parquet_file;
